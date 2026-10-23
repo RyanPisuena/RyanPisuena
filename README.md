@@ -2,11 +2,11 @@
 
 I'm an engineer based in NYC. I like figuring out why things break, and I like fixing them even more.
 
-These days I'm at [Datadog](https://www.datadoghq.com/), and outside of work I'm usually picking up something new. Lately that's Go and ML.
+These days I'm at [Datadog](https://www.datadoghq.com/), and outside of work I'm usually picking up something new. Lately that's Go.
 
 **Tools I reach for:** Python, Go, TypeScript, C++, Kubernetes/Helm, Docker
 
-**Currently exploring:** AI agents and dev tooling, model deployment, Go
+**Currently exploring:** Go, AI agents and dev tooling
 
 ---
 
@@ -36,7 +36,7 @@ When I run into a bug or a docs gap, I like tracing it back to the source and fi
 
 ### Currently learning
 
-[learn-go](https://github.com/RyanPisuena/learn-go) · [basetenexploration](https://github.com/RyanPisuena/basetenexploration) · [fast.ai course](https://github.com/RyanPisuena/course22)
+[learn-go](https://github.com/RyanPisuena/learn-go): working through Go fundamentals, one exercise at a time
 
 ---
 
